@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=VATCalculator
+comment0.text=\r\n\ The\ VATCalculator\ class\ inputs\ an\ amount\ of\ money\ without\ VAT\ from\r\n\ one\ text\ field\ and\ outputs\ the\ amount\ with\ VAT\ to\ the\ other\ text\ field.\r\n
+comment1.params=
+comment1.target=VATCalculator()
+comment1.text=\r\n\ The\ GUI\ is\ created\ in\ the\ constructor.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ The\ main\ method\ allows\ the\ program\ to\ be\ run\ without\ BlueJ.\r\n
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ Find\ which\ button\ triggered\ the\ event\ and\ call\ the\ appropriate\ method.\r\n
+comment4.params=
+comment4.target=double\ getAmountWithoutVAT()
+comment4.text=\r\n\ Input\ the\ amount\ of\ money\ from\ the\ first\ text\ field.\r\n
+comment5.params=
+comment5.target=void\ addVAT()
+comment5.text=\r\n\ Add\ VAT\ and\ output\ to\ the\ second\ textfield.\r\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\r\n\ Clear\ both\ textfields.\r\n
+numComments=7
